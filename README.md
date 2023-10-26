@@ -1,8 +1,12 @@
-# python-template
-Mini-Project 1 
+# Week 9: Cloud-Hosted Notebook Data Manipulation
+## Katelyn Hucker (kh509)
+Requirements
+Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
+Perform data manipulation tasks on a sample dataset
+Grading Criteria
+Setup and configuration (20 points)
+Data manipulation tasks (20 points)
+Deliverables
+Link to the cloud-hosted notebook
+Document or video demonstrating the tasks performed
 
-Fall 2023 IDS 706 Data Engineering
-
-Katelyn Hucker (kh509)
-
-This includes a Makefile, requirements.txt, .devcontainer, .gitignore, GitHubActions, and Readme.
