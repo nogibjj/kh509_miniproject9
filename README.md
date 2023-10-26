@@ -14,9 +14,8 @@ I got my dataset from two datasources:
 The two datasets are about Dungeons and Dragons details characters like physical characteristics and player options. I wanted to see if there was any relationship between D&D classes (Wizard, Fighter,etc) with the statistics characters carry like strength or intelligence. 
 
 ## Requirements
-The project requred the following requrements: 
 
-- **Import a sample dataset into the cloud notebook (Ingest stage)**
+#### Import a sample dataset into the cloud notebook (Ingest stage)
 
 I imported datasource 1, a tsv using pandas. 
 
