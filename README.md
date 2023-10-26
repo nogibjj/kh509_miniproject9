@@ -6,7 +6,6 @@ I completed the ingest and EDA stages in a Google Colab Notebook. I uploaded the
 <script src="https://gist.github.com/katelyn-hucker/7b9ad413b72e37174db966409d46e061.js"></script>
 
 
-
 ## Requirements
 Import a sample dataset into the cloud notebook (Ingest stage)
 
