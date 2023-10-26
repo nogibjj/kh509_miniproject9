@@ -17,7 +17,7 @@ The two datasets are about Dungeons and Dragons details characters like physical
 
 ### Import a sample dataset into the cloud notebook (Ingest stage)
 
-I imported datasource 1, a tsv using pandas. 
+I imported datasource 1, a tsv using pandas. See this in the notebook. 
 
 ### Perform basic data inspection such as checking the number of rows and columns, data types, summary statistics etc (EDA stage).
 
