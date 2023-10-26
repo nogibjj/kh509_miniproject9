@@ -3,16 +3,16 @@
 
 
 ## Requirements
-Set up a cloud-hosted Jupyter Notebook (e.g., Google Colab)
-Perform data manipulation tasks on a sample dataset
+Import a sample dataset into the cloud notebook (Ingest stage)
 
+Perform basic data inspection such as checking the number of rows and columns, data types, summary statistics etc (EDA stage)
 
-## Grading Criteria
-Setup and configuration (20 points)
-Data manipulation tasks (20 points)
+Filter the data based on specific criteria and create a new filtered dataset (EDA)
 
+Group the data by one or more columns and aggregate metrics like mean, max etc (EDA)
 
-## Deliverables
-Link to the cloud-hosted notebook
-Document or video demonstrating the tasks performed
+Join the main dataset with another supplementary dataset (EDA)
+
+Create various data visualizations like histograms, scatter plots, box plots etc (EDA)
+
 
