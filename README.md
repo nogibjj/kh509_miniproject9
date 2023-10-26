@@ -3,7 +3,7 @@
 
 I completed the ingest and EDA stages in a Google Colab Notebook. I uploaded the jupytr notebook file to this repo. You can also find the cloud-hosted notebook at this github gist link. The notebook has headings and subheadings matching the requirements below so please take advantage of the easy access. I have also included screenshots with some of the requirements below. 
 
-[View My Gist]([https://gist.github.com/username/gistID](https://gist.github.com/katelyn-hucker/7b9ad413b72e37174db966409d46e061))
+[View My Gist](https://gist.github.com/katelyn-hucker/7b9ad413b72e37174db966409d46e061)
 
 ## About my dataset
 
